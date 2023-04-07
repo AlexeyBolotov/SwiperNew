@@ -1,0 +1,22 @@
+.swiper {
+    width: 640px;
+    height: 641px;
+  }
+
+.swiper-slide1 {
+    background-image: url(/img/aldebaran.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
+
+.swiper-slide2 {
+    background-image: url(/img/casey-horn.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
+
+.swiper-slide3 {
+    background-image: url(/img/joel-fil.jpg);
+    background-size: cover;
+    background-position: center center; 
+}
